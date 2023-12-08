@@ -1,0 +1,6 @@
+[
+    {"nombre": "John Doe", "edad": 30, "salario": 50000},
+    {"nombre": "Jane Doe", "edad": 25, "salario": 45000},
+    {"nombre": "Bob Smith", "edad": 35, "salario": 60000},
+    {"nombre": "Santiago Arteaga", "edad": 30, "salario": 6000}
+]
