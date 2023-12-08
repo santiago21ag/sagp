@@ -16,7 +16,7 @@
 </head>
 <body>
 
-    <h2>DataTables + Highcharts Example</h2>
+    <h2>Analisis estadistico</h2>
     
     <table id="example" class="display" style="width:100%">
         
@@ -33,8 +33,8 @@
         var nombres = [];
         var edades = [];
         var salarios = [];
-        //var flag='db';
-        var flag='no db';
+        var flag='db';
+        //var flag='no db';
 
         $(document).ready(function() {
             if(flag=='db'){
